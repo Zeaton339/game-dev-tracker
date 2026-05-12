@@ -1,0 +1,8 @@
+name = "game-dev-tracker"
+compatibility_date = "2024-05-11"
+pages_build_output_dir = "./"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "game-dev-tracker-db"
+database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
